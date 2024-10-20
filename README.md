@@ -1,6 +1,7 @@
 # hangman_game
 
-# Working on problem set 2 from this class.  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/
+## Problem set 2 [from this class.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/) 
+
 
 #covered these things in the MIT course 
 #1	What is computation?	Slides for Lecture 1 (PDF)	Code for Lecture 1 (PY)
